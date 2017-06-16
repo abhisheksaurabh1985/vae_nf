@@ -1,0 +1,9 @@
+# Python
+*.pyc
+*.jpg
+*.png
+
+# Ignore data directory
+MNIST_data/
+tf_logs/
+

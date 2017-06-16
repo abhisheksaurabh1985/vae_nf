@@ -1,0 +1,1197 @@
+Epoch: 0 	 Average cost: 190.960786154
+Epoch: 1 	 Average cost: 172.970769413
+Epoch: 2 	 Average cost: 168.735586816
+Epoch: 3 	 Average cost: 166.098652508
+Epoch: 4 	 Average cost: 163.873879456
+Epoch: 0 	 Average cost: 36.615703988
+Epoch: 1 	 Average cost: 208.816413920
+Epoch: 2 	 Average cost: 189.269423702
+Epoch: 3 	 Average cost: 182.926242009
+Epoch: 4 	 Average cost: 180.681660123
+Epoch: 5 	 Average cost: 178.564655981
+Epoch: 6 	 Average cost: 177.346607469
+Epoch: 7 	 Average cost: 175.845049836
+Epoch: 8 	 Average cost: 174.232896511
+Epoch: 9 	 Average cost: 172.929228257
+Epoch: 10 	 Average cost: 172.001910610
+Epoch: 11 	 Average cost: 171.109915782
+Epoch: 12 	 Average cost: 170.621786025
+Epoch: 13 	 Average cost: 169.861508384
+Epoch: 14 	 Average cost: 169.618733970
+Epoch: 0 	 Average cost: -0.030440650
+Epoch: 1 	 Average cost: -2.042146364
+Epoch: 2 	 Average cost: -2.942145247
+Epoch: 3 	 Average cost: -3.418883369
+Epoch: 4 	 Average cost: -3.854785138
+Epoch: 0 	 Average cost: -0.030440650
+Epoch: 0 	 Average cost: -0.297070548
+Epoch: 1 	 Average cost: -2.747816561
+Epoch: 0 	 Average cost: -0.486370286
+Epoch: 0 	 Average cost: 36.751981940
+Epoch: 1 	 Average cost: 205.976831673
+Epoch: 0 	 Average cost: 36.758353588
+Epoch: 1 	 Average cost: 206.030495639
+Epoch: 0 	 Average cost: 38.886514499
+Epoch: 1 	 Average cost: 208.229212762
+Epoch: 2 	 Average cost: 194.703856016
+Epoch: 3 	 Average cost: 188.084606414
+Epoch: 4 	 Average cost: 184.464254208
+Epoch: 0 	 Average cost: 2.518461955
+Epoch: 1 	 Average cost: 0.771139683
+Epoch: 2 	 Average cost: -0.038697062
+Epoch: 3 	 Average cost: -0.453422079
+Epoch: 4 	 Average cost: -0.664412239
+Epoch: 0 	 Average cost: 2.518461955
+Epoch: 1 	 Average cost: 0.771139683
+Epoch: 2 	 Average cost: -0.038697062
+Epoch: 3 	 Average cost: -0.453422079
+Epoch: 4 	 Average cost: -0.664412239
+########
+Config
+########
+nFlows: 32
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 100
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fc92404dc08>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 2.518461955
+Epoch: 1 	 Average cost: 0.771139683
+Epoch: 2 	 Average cost: -0.038697062
+Epoch: 3 	 Average cost: -0.453422079
+Epoch: 4 	 Average cost: -0.664412239
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 100
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fc92404dc08>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: -0.298243063
+Epoch: 1 	 Average cost: -1.668333356
+Epoch: 2 	 Average cost: -2.799195484
+Epoch: 3 	 Average cost: -3.585513808
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fc92404dc08>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 36.758353588
+Epoch: 1 	 Average cost: 206.030495639
+Epoch: 2 	 Average cost: 188.330680774
+Epoch: 3 	 Average cost: 183.407006493
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f88e811a410>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 36.758353588
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f3be6888410>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f9f03505410>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f1623873b18>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f5cb0573b18>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fbc1e8f3b18>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fc92404dc08>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fc92404dc08>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa2d6933b18>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f9378c73b18>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fc9d1633b18>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f64af373b18>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fb083c3c2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f8a5087c2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f2d2a9fc2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f272617c2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f5ed1a3c2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f1af0afc2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 36.550901016
+Epoch: 1 	 Average cost: 207.414876512
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7efcdc77e2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f7b7bd3e2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fad395fc2a8>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: -0.398330143
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: -0.398330143
+Epoch: 1 	 Average cost: -2.990676700
+Epoch: 2 	 Average cost: -4.156550518
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: False
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 0.516891516
+Epoch: 1 	 Average cost: -1.968436631
+Epoch: 2 	 Average cost: -3.846303227
+Epoch: 3 	 Average cost: -4.984139429
+Epoch: 4 	 Average cost: -5.535234232
+########
+Config
+########
+nFlows: 8
+invert_condition: False
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 50
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 0.331550260
+Epoch: 1 	 Average cost: -1.611986396
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: True
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7fa49b60b578>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 36.691595430
+Epoch: 1 	 Average cost: 202.059954866

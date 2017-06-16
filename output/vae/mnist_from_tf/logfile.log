@@ -1,0 +1,430 @@
+Epoch: 0	 Loss: 0.282121301
+Epoch: 1000	 Loss: 0.000268895
+Epoch: 2000	 Loss: 0.000020411
+Epoch: 0	 Loss: 2.185536385
+Epoch: 1000	 Loss: 0.000843020
+Epoch: 2000	 Loss: 0.000358323
+Epoch: 0	 Loss: 8.646110535
+Epoch: 0	 Loss: 45063.046875000
+Epoch: 1000	 Loss: 692294912.000000000
+Epoch: 2000	 Loss: nan
+Epoch: 0	 Loss: 45086.820312500
+Epoch: 1000	 Loss: 10549292.000000000
+Epoch: 2000	 Loss: 73681040.000000000
+Epoch: 0	 Loss: 45009.210937500
+Epoch: 1000	 Loss: 21583532.000000000
+Epoch: 2000	 Loss: 117435608.000000000
+Epoch: 0	 Loss: 0.487676322
+Epoch: 1000	 Loss: 0.000460264
+Epoch: 2000	 Loss: 0.000181758
+Epoch: 0	 Loss: nan
+Epoch: 1000	 Loss: nan
+Epoch: 2000	 Loss: nan
+Epoch: 0	 Loss: nan
+Epoch: 1000	 Loss: nan
+Epoch: 2000	 Loss: nan
+Epoch: 0	 Loss: nan
+Epoch: 1000	 Loss: nan
+Epoch: 2000	 Loss: nan
+Epoch: 0	 Loss: nan
+Epoch: 0	 Loss: 556.965637207
+Epoch: 0	 Loss: nan
+Epoch: 1000	 Loss: nan
+Epoch: 2000	 Loss: nan
+Epoch: 0	 Loss: 45173.062500000
+Epoch: 1000	 Loss: 6624300544.000000000
+Epoch: 2000	 Loss: 96690675712.000000000
+Epoch: 0	 Loss: 45278.605468750
+Epoch: 1000	 Loss: 22772340.000000000
+Epoch: 2000	 Loss: 941903360.000000000
+Epoch: 0	 Loss: 941903360.000000000
+Epoch: 0	 Average cost: 744563481.918809175
+Epoch: 0 	 Average cost: 5644428458.223341942
+Epoch: 0 	 Average cost: 15864303494.134729385
+Epoch: 0 	 Average cost: 4130683.550000000
+Epoch: 1 	 Average cost: 61007850.550000004
+Epoch: 0 	 Average cost: 4615496.350000000
+Epoch: 1 	 Average cost: 114468937.300000012
+Epoch: 2 	 Average cost: 88154532.800000012
+Epoch: 3 	 Average cost: 116907587.200000003
+Epoch: 4 	 Average cost: 2532622645.599999428
+Epoch: 5 	 Average cost: 71788944.400000006
+Epoch: 6 	 Average cost: 47390870.799999997
+Epoch: 7 	 Average cost: 55914635.600000009
+Epoch: 8 	 Average cost: 123912399.199999988
+Epoch: 9 	 Average cost: 3648458704.000000477
+Epoch: 10 	 Average cost: 526569587.200000048
+Epoch: 11 	 Average cost: 3139130412.800000191
+Epoch: 12 	 Average cost: 24227051136.000000000
+Epoch: 13 	 Average cost: 2233906841.600000381
+Epoch: 14 	 Average cost: 32121774028.800003052
+Epoch: 15 	 Average cost: 58553159987.200004578
+Epoch: 16 	 Average cost: 70309530009.600006104
+Epoch: 17 	 Average cost: 146610881331.200012207
+Epoch: 18 	 Average cost: 234622650777.600006104
+Epoch: 19 	 Average cost: 290397029171.199951172
+Epoch: 0 	 Average cost: nan
+Epoch: 1 	 Average cost: nan
+Epoch: 2 	 Average cost: nan
+Epoch: 0 	 Average cost: 474.887066650
+Epoch: 1 	 Average cost: 342.849221802
+Epoch: 2 	 Average cost: 271.827879333
+Epoch: 3 	 Average cost: 240.835044861
+Epoch: 4 	 Average cost: 227.400015259
+Epoch: 0 	 Average cost: 477.634857178
+Epoch: 1 	 Average cost: 348.553024292
+Epoch: 2 	 Average cost: 277.927978516
+Epoch: 3 	 Average cost: 244.252101135
+Epoch: 4 	 Average cost: 229.012193298
+Epoch: 5 	 Average cost: 220.737174988
+Epoch: 6 	 Average cost: 215.846745300
+Epoch: 7 	 Average cost: 211.851342773
+Epoch: 8 	 Average cost: 208.576893616
+Epoch: 9 	 Average cost: 205.891255188
+Epoch: 10 	 Average cost: 203.339201355
+Epoch: 11 	 Average cost: 201.303025818
+Epoch: 12 	 Average cost: 199.865098572
+Epoch: 13 	 Average cost: 197.939617920
+Epoch: 14 	 Average cost: 196.815383911
+Epoch: 15 	 Average cost: 195.833511353
+Epoch: 16 	 Average cost: 194.476271057
+Epoch: 17 	 Average cost: 193.779154968
+Epoch: 18 	 Average cost: 192.944163513
+Epoch: 19 	 Average cost: 192.014778137
+Epoch: 20 	 Average cost: 191.223869324
+Epoch: 21 	 Average cost: 190.844802856
+Epoch: 22 	 Average cost: 190.221746826
+Epoch: 23 	 Average cost: 189.328312683
+Epoch: 24 	 Average cost: 188.885147095
+Epoch: 0 	 Average cost: 468.736651611
+Epoch: 1 	 Average cost: 337.603506470
+Epoch: 2 	 Average cost: 268.757791138
+Epoch: 3 	 Average cost: 239.685578918
+Epoch: 4 	 Average cost: 226.696897888
+Epoch: 5 	 Average cost: 220.055909729
+Epoch: 6 	 Average cost: 215.877397156
+Epoch: 7 	 Average cost: 212.510540771
+Epoch: 8 	 Average cost: 210.166271973
+Epoch: 9 	 Average cost: 207.823583984
+Epoch: 10 	 Average cost: 205.707560730
+Epoch: 11 	 Average cost: 203.636038208
+Epoch: 12 	 Average cost: 202.037022400
+Epoch: 13 	 Average cost: 200.310708618
+Epoch: 14 	 Average cost: 198.802360535
+Epoch: 15 	 Average cost: 197.569732666
+Epoch: 16 	 Average cost: 196.700311279
+Epoch: 17 	 Average cost: 195.608177185
+Epoch: 18 	 Average cost: 194.666354370
+Epoch: 19 	 Average cost: 194.056576538
+Epoch: 20 	 Average cost: 192.953694153
+Epoch: 21 	 Average cost: 192.529339600
+Epoch: 22 	 Average cost: 191.616777039
+Epoch: 23 	 Average cost: 191.166291809
+Epoch: 24 	 Average cost: 190.648405457
+Epoch: 0 	 Average cost: 480.333847046
+Epoch: 1 	 Average cost: 348.904058838
+Epoch: 2 	 Average cost: 276.906909180
+Epoch: 3 	 Average cost: 243.434909058
+Epoch: 4 	 Average cost: 228.149839783
+Epoch: 0 	 Average cost: 470.807077026
+Epoch: 1 	 Average cost: 343.074200439
+Epoch: 2 	 Average cost: 273.665670776
+Epoch: 3 	 Average cost: 241.867086792
+Epoch: 4 	 Average cost: 227.679315186
+Epoch: 0 	 Average cost: 473.148107910
+Epoch: 1 	 Average cost: 339.962255859
+Epoch: 2 	 Average cost: 270.656004333
+Epoch: 3 	 Average cost: 240.966763306
+Epoch: 4 	 Average cost: 227.481846619
+Epoch: 0 	 Average cost: 475.516366577
+Epoch: 100 	 Average cost: 173.737367249
+Epoch: 200 	 Average cost: 168.825650024
+Epoch: 0 	 Average cost: 479.309701538
+Epoch: 1 	 Average cost: 349.148205566
+Epoch: 2 	 Average cost: 277.878320312
+Epoch: 0 	 Average cost: 469.874090576
+Epoch: 1 	 Average cost: 333.785482788
+Epoch: 2 	 Average cost: 265.334066772
+Epoch: 0 	 Average cost: 474.206109619
+Epoch: 0 	 Average cost: 474.470050049
+Epoch: 1 	 Average cost: 341.675292969
+Epoch: 2 	 Average cost: 270.699472046
+Epoch: 3 	 Average cost: 240.438769531
+Epoch: 4 	 Average cost: 226.846620178
+Epoch: 5 	 Average cost: 219.569555664
+Epoch: 6 	 Average cost: 214.064634705
+Epoch: 7 	 Average cost: 210.115014648
+Epoch: 8 	 Average cost: 206.641828918
+Epoch: 9 	 Average cost: 203.932987976
+Epoch: 0 	 Average cost: 474.511761475
+Epoch: 1 	 Average cost: 343.952197266
+Epoch: 2 	 Average cost: 273.455960083
+Epoch: 3 	 Average cost: 241.999153137
+Epoch: 4 	 Average cost: 228.024250793
+Epoch: 0 	 Average cost: 476.102716064
+Epoch: 1 	 Average cost: 343.806500244
+Epoch: 2 	 Average cost: 272.550224304
+Epoch: 3 	 Average cost: 241.383192444
+Epoch: 4 	 Average cost: 227.831823730
+Epoch: 5 	 Average cost: 220.828439331
+Epoch: 6 	 Average cost: 215.986819458
+Epoch: 7 	 Average cost: 212.823347473
+Epoch: 8 	 Average cost: 209.863676453
+Epoch: 9 	 Average cost: 207.229380798
+Epoch: 0 	 Average cost: 471.497674561
+Epoch: 10 	 Average cost: 203.905403137
+Epoch: 20 	 Average cost: 191.282434082
+Epoch: 30 	 Average cost: 186.592948914
+Epoch: 40 	 Average cost: 183.418583679
+Epoch: 50 	 Average cost: 181.088578796
+Epoch: 60 	 Average cost: 179.305943298
+Epoch: 70 	 Average cost: 177.815103149
+Epoch: 80 	 Average cost: 176.439639282
+Epoch: 90 	 Average cost: 175.254821777
+Epoch: 0 	 Average cost: 471.848397827
+Epoch: 20 	 Average cost: 190.940190125
+Epoch: 40 	 Average cost: 182.966491699
+Epoch: 60 	 Average cost: 178.968467712
+Epoch: 80 	 Average cost: 177.203274536
+Epoch: 100 	 Average cost: 175.623352051
+Epoch: 120 	 Average cost: 174.007360840
+Epoch: 140 	 Average cost: 173.133660889
+Epoch: 160 	 Average cost: 172.366648865
+Epoch: 180 	 Average cost: 171.908071899
+Epoch: 0 	 Average cost: 474.206109619
+Epoch: 200 	 Average cost: 168.682768250
+Epoch: 400 	 Average cost: 165.329246521
+Epoch: 600 	 Average cost: 160.944226074
+Epoch: 800 	 Average cost: 157.785525513
+Epoch: 1000 	 Average cost: 155.451870728
+Epoch: 1200 	 Average cost: 153.746516418
+Epoch: 1400 	 Average cost: 152.337384033
+Epoch: 1600 	 Average cost: 151.453422546
+Epoch: 1800 	 Average cost: 150.409835815
+Epoch: 0 	 Average cost: 474.206109619
+Epoch: 1 	 Average cost: 341.380343628
+Epoch: 2 	 Average cost: 271.010966492
+Epoch: 0 	 Average cost: 474.206109619
+Epoch: 1 	 Average cost: 341.380343628
+Epoch: 2 	 Average cost: 271.010966492
+Epoch: 0 	 Average cost: 474.206109619
+Epoch: 1 	 Average cost: 341.380343628
+Epoch: 2 	 Average cost: 271.010966492
+Epoch: 0 	 Average cost: 474.206109619
+Epoch: 1 	 Average cost: 341.380343628
+Epoch: 2 	 Average cost: 271.010966492
+Epoch: 0 	 Average cost: 474.206109619
+Epoch: 1 	 Average cost: 341.380343628
+Epoch: 2 	 Average cost: 271.010966492
+Epoch: 0 	 Average cost: 474.206109619
+Epoch: 1 	 Average cost: 341.380343628
+Epoch: 2 	 Average cost: 271.010966492
+Epoch: 0 	 Average cost: 474.180154419
+Epoch: 1 	 Average cost: 341.357461548
+Epoch: 2 	 Average cost: 271.006611633
+Epoch: 0 	 Average cost: 474.180154419
+Epoch: 1 	 Average cost: 341.357461548
+Epoch: 2 	 Average cost: 271.006611633
+Epoch: 0 	 Average cost: 474.180154419
+Epoch: 1 	 Average cost: 341.357461548
+Epoch: 2 	 Average cost: 271.006611633
+Epoch: 0 	 Average cost: 474.180154419
+Epoch: 1 	 Average cost: 341.357461548
+Epoch: 2 	 Average cost: 271.006611633
+Epoch: 0 	 Average cost: 474.180154419
+Epoch: 1 	 Average cost: 341.357461548
+Epoch: 2 	 Average cost: 271.006611633
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 1 	 Average cost: 341.357461548 	 Recons Loss: 335.798974609 	 KL Loss: 5.603689444
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 4 	 Average cost: 226.892291260 	 Recons Loss: 218.515513611 	 KL Loss: 8.385915852
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 4 	 Average cost: 226.892291260 	 Recons Loss: 218.515513611 	 KL Loss: 8.385915852
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 4 	 Average cost: 226.892291260 	 Recons Loss: 218.515513611 	 KL Loss: 8.385915852
+Epoch: 0 	 Average cost: 474.180154419 	 Recons Loss: 473.242132568 	 KL Loss: 0.926824504
+Epoch: 2 	 Average cost: 271.006611633 	 Recons Loss: 256.818391418 	 KL Loss: 14.102688122
+Epoch: 4 	 Average cost: 226.892291260 	 Recons Loss: 218.515513611 	 KL Loss: 8.385915852
+Epoch: 0 	 Average cost: 469.561355591 	 Recons Loss: 468.750891113 	 KL Loss: 0.824006177
+Epoch: 2 	 Average cost: 270.614224243 	 Recons Loss: 258.352792358 	 KL Loss: 12.261543179
+Epoch: 4 	 Average cost: 227.058653259 	 Recons Loss: 219.038267517 	 KL Loss: 8.022797203
+Epoch: 0 	 Average cost: 473.615017700 	 Recons Loss: 473.046401978 	 KL Loss: 0.562251496
+Epoch: 2 	 Average cost: 275.866410828 	 Recons Loss: 267.412034607 	 KL Loss: 8.508827162
+Epoch: 0 	 Average cost: 474.715701294 	 Recons Loss: 473.573162842 	 KL Loss: 1.127806389
+Epoch: 2 	 Average cost: 271.251786804 	 Recons Loss: 258.131037903 	 KL Loss: 13.116084480
+Epoch: 4 	 Average cost: 227.636505127 	 Recons Loss: 219.490257263 	 KL Loss: 8.138089180
+Epoch: 0 	 Average cost: 479.472915649 	 Recons Loss: 478.244232178 	 KL Loss: 1.245887029
+Epoch: 2 	 Average cost: 269.455499268 	 Recons Loss: 254.385253906 	 KL Loss: 15.033716679
+Epoch: 4 	 Average cost: 227.091427612 	 Recons Loss: 218.096302795 	 KL Loss: 9.001177120
+Epoch: 0 	 Average cost: 475.591748047 	 Recons Loss: 474.833398438 	 KL Loss: 0.758761774
+Epoch: 2 	 Average cost: 275.486590576 	 Recons Loss: 265.338301086 	 KL Loss: 10.142368317
+Epoch: 4 	 Average cost: 228.511456299 	 Recons Loss: 221.053439331 	 KL Loss: 7.453745222
+Epoch: 0 	 Average cost: 474.474142456 	 Recons Loss: 473.357366943 	 KL Loss: 1.112127826
+Epoch: 2 	 Average cost: 270.791888428 	 Recons Loss: 258.269418335 	 KL Loss: 12.421820831
+Epoch: 4 	 Average cost: 226.850489807 	 Recons Loss: 218.733602905 	 KL Loss: 8.068791294
+Epoch: 0 	 Average cost: 473.515243530 	 Recons Loss: 471.912075806 	 KL Loss: 1.622383958
+Epoch: 2 	 Average cost: 265.978300476 	 Recons Loss: 251.751983643 	 KL Loss: 14.209547424
+Epoch: 4 	 Average cost: 224.501342773 	 Recons Loss: 215.817706299 	 KL Loss: 8.666497850
+Epoch: 0 	 Average cost: 475.048703003 	 Recons Loss: 473.073953247 	 KL Loss: 1.970666301
+Epoch: 1 	 Average cost: 336.424438477 	 Recons Loss: 324.097250366 	 KL Loss: 12.335887575
+Epoch: 2 	 Average cost: 264.017689514 	 Recons Loss: 248.489646912 	 KL Loss: 15.537395859
+Epoch: 3 	 Average cost: 235.685906982 	 Recons Loss: 224.376382446 	 KL Loss: 11.363582706
+Epoch: 4 	 Average cost: 223.999250793 	 Recons Loss: 215.005459595 	 KL Loss: 8.976409721
+Epoch: 0 	 Average cost: 471.217782593 	 Recons Loss: 469.179916382 	 KL Loss: 2.032506913
+Epoch: 1 	 Average cost: 332.930941772 	 Recons Loss: 321.838848877 	 KL Loss: 11.122447777
+Epoch: 2 	 Average cost: 263.226045227 	 Recons Loss: 245.378993225 	 KL Loss: 17.837347984
+Epoch: 3 	 Average cost: 235.378648376 	 Recons Loss: 224.787928772 	 KL Loss: 10.509464836
+Epoch: 4 	 Average cost: 223.736543274 	 Recons Loss: 214.337980652 	 KL Loss: 9.376870537
+Epoch: 0 	 Average cost: 471.991152954 	 Recons Loss: 470.301812744 	 KL Loss: 1.683272284
+Epoch: 1 	 Average cost: 336.733444214 	 Recons Loss: 325.844885254 	 KL Loss: 10.911996746
+Epoch: 2 	 Average cost: 265.929260254 	 Recons Loss: 251.359620667 	 KL Loss: 14.555614185
+Epoch: 3 	 Average cost: 236.644952393 	 Recons Loss: 226.067698669 	 KL Loss: 10.592695236
+Epoch: 4 	 Average cost: 224.168634033 	 Recons Loss: 215.675431824 	 KL Loss: 8.522884560
+Epoch: 0 	 Average cost: 472.525518799 	 Recons Loss: 471.092016602 	 KL Loss: 1.437973511
+Epoch: 1 	 Average cost: 338.671313477 	 Recons Loss: 330.231054688 	 KL Loss: 8.466264892
+Epoch: 2 	 Average cost: 267.025932312 	 Recons Loss: 253.717167664 	 KL Loss: 13.320443439
+Epoch: 3 	 Average cost: 236.823425293 	 Recons Loss: 226.533692932 	 KL Loss: 10.300644493
+Epoch: 4 	 Average cost: 223.751638794 	 Recons Loss: 215.336659241 	 KL Loss: 8.411158323
+Epoch: 0 	 Average cost: 476.829071045 	 Recons Loss: 474.760678101 	 KL Loss: 2.058438087
+Epoch: 0 	 Average cost: 476.672860718 	 Recons Loss: 475.213220215 	 KL Loss: 1.444732374
+Epoch: 1 	 Average cost: 343.182312012 	 Recons Loss: 338.472637939 	 KL Loss: 4.750320208
+Epoch: 2 	 Average cost: 271.982673645 	 Recons Loss: 259.273460388 	 KL Loss: 12.721401787
+Epoch: 3 	 Average cost: 239.732730103 	 Recons Loss: 230.642509460 	 KL Loss: 9.084393883
+Epoch: 4 	 Average cost: 225.444909668 	 Recons Loss: 217.260160828 	 KL Loss: 8.146161890
+Epoch: 0 	 Average cost: 476.492718506 	 Recons Loss: 473.748687744 	 KL Loss: 2.744576871
+Epoch: 1 	 Average cost: 337.437274170 	 Recons Loss: 325.478295898 	 KL Loss: 12.002858353
+Epoch: 2 	 Average cost: 265.385156250 	 Recons Loss: 249.357232666 	 KL Loss: 16.010976124
+Epoch: 3 	 Average cost: 236.517089844 	 Recons Loss: 225.219841003 	 KL Loss: 11.227500343
+Epoch: 4 	 Average cost: 224.379290771 	 Recons Loss: 215.259983826 	 KL Loss: 9.094736195
+Epoch: 0 	 Average cost: 476.912957764 	 Recons Loss: 475.935964966 	 KL Loss: 0.985853234
+Epoch: 1 	 Average cost: 344.144531250 	 Recons Loss: 338.420776367 	 KL Loss: 5.730031848
+Epoch: 2 	 Average cost: 272.175695801 	 Recons Loss: 261.027175903 	 KL Loss: 11.113714504
+Epoch: 0 	 Average cost: 470.033526611 	 Recons Loss: 468.526910400 	 KL Loss: 1.496358442
+Epoch: 1 	 Average cost: 338.650588989 	 Recons Loss: 331.648416138 	 KL Loss: 6.957483888
+Epoch: 2 	 Average cost: 268.358590698 	 Recons Loss: 255.464515686 	 KL Loss: 12.892038727
+Epoch: 0 	 Average cost: 469.836026001 	 Recons Loss: 468.118045044 	 KL Loss: 1.695490569
+Epoch: 1 	 Average cost: 332.383898926 	 Recons Loss: 319.080053711 	 KL Loss: 13.252363873
+Epoch: 2 	 Average cost: 262.058445740 	 Recons Loss: 247.305773926 	 KL Loss: 14.725589180
+Epoch: 0 	 Average cost: 475.299417114 	 Recons Loss: 472.773358154 	 KL Loss: 2.542599636
+Epoch: 1 	 Average cost: 338.936267090 	 Recons Loss: 330.982409668 	 KL Loss: 7.973028183
+Epoch: 2 	 Average cost: 268.118251038 	 Recons Loss: 251.731570435 	 KL Loss: 16.381049824
+Epoch: 0 	 Average cost: 471.053848267 	 Recons Loss: 469.242794800 	 KL Loss: 1.812784868
+Epoch: 1 	 Average cost: 332.354382324 	 Recons Loss: 318.355743408 	 KL Loss: 14.013851309
+Epoch: 2 	 Average cost: 262.459146118 	 Recons Loss: 247.166362000 	 KL Loss: 15.250710869
+Epoch: 0 	 Average cost: 473.686001587 	 Recons Loss: 471.082800293 	 KL Loss: 2.595402312
+Epoch: 1 	 Average cost: 341.501846313 	 Recons Loss: 336.170074463 	 KL Loss: 5.334037447
+Epoch: 2 	 Average cost: 270.894374084 	 Recons Loss: 257.392956543 	 KL Loss: 13.481968021
+Epoch: 0 	 Average cost: 249.645791045
+Epoch: 1 	 Average cost: 193.443092017
+Epoch: 2 	 Average cost: 185.938387603
+Epoch: 3 	 Average cost: 182.289472218
+Epoch: 4 	 Average cost: 179.351758371
+Epoch: 5 	 Average cost: 176.861267406
+Epoch: 6 	 Average cost: 175.775409737
+Epoch: 7 	 Average cost: 174.601435846
+Epoch: 8 	 Average cost: 173.618485961
+Epoch: 9 	 Average cost: 172.785932408
+Epoch: 10 	 Average cost: 172.309037797
+Epoch: 11 	 Average cost: 171.655208415
+Epoch: 12 	 Average cost: 171.356075668
+Epoch: 13 	 Average cost: 170.695430569
+Epoch: 14 	 Average cost: 170.472390741
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: False
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f0fc1f02668>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: False
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f0fc1f02668>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 249.645828940
+Epoch: 1 	 Average cost: 193.444610479
+Epoch: 2 	 Average cost: 185.931709450
+Epoch: 3 	 Average cost: 182.276967424
+Epoch: 4 	 Average cost: 179.340946955
+########
+Config
+########
+nFlows: 8
+invert_condition: True
+h_dim: 256
+delete_data_manifold_dir: False
+learning_rate: 1e-05
+radial_flow_type: Given in the paper on NF
+z_dim: 2
+batch_size: 5
+nepochs: 5
+beta: True
+normalizing_flow: False
+z_score_normalization: True
+flow_type: Planar
+display_step: 1
+transfer_fct: <function softplus at 0x7f0d217de410>
+delete_latent_space_dir: False
+dataset_name: mnist_from_tf
+Epoch: 0 	 Average cost: 249.645828940
+Epoch: 1 	 Average cost: 193.444610479
+Epoch: 2 	 Average cost: 185.931709450
+Epoch: 3 	 Average cost: 182.276967424
+Epoch: 4 	 Average cost: 179.340946955
