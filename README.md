@@ -5,7 +5,8 @@
 2. Variational Inference with Normalizing Flows: https://arxiv.org/abs/1505.05770
 
 **HOW TO RUN**
-*norm_flow.py* should be executed. Parameters defined in *config.py*.  
+1. *norm_flow.py* should be executed. 
+2. Parameters defined in *config.py*.  
 
 **TO DO**
 1. Output directory structure is hard-coded in *config.py*. To be automated. 
